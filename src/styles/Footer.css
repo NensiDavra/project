@@ -1,0 +1,38 @@
+.info{
+    font-size: 20px;
+    /* height: 80%; */
+}
+
+
+.footer {
+    background-color: #4a1f3f;;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+    border-top: 1px solid #eaeaea;
+    display: block;
+  }
+  
+  .footer nav {
+    margin-bottom: 10px;
+  }
+  
+  .footer nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    /* color: #007bff; */
+    color: white;
+
+  }
+  
+  .footer nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .p {
+    color: whitesmoke;
+    font-size: 20px;
+  }
+
+
+  
